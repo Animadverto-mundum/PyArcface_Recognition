@@ -1,0 +1,16 @@
+标准库
+time
+threading
+tkinter
+ctypes
+time
+enum
+os
+os.path
+datetime
+
+第三方
+pillow
+opencv
+pytorch
+paramiko
